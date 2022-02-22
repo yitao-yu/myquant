@@ -1,0 +1,1 @@
+Store plots that will be computed and updated at each computation here. 
